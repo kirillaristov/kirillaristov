@@ -4,7 +4,7 @@ I'm mostly a kayaker. Otherwise, I'm a bit of a programmer, a bit of an IT guy, 
 
 kir@kirillaristov.com
 
-kirillaristov.com
+[kirillaristov.com](https://kirillaristov.com)
 
 <!--
 **kirillaristov/kirillaristov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
