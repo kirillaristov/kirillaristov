@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm mostly a kayaker. Otherwise, I'm a bit of a programmer, a bit of an IT guy, a bit of a tech guy. I also like to ride a bike, ski, and other active activities.
+
+kir@kirillaristov.com
+
+kirillaristov.com
+
 <!--
 **kirillaristov/kirillaristov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
