@@ -6,6 +6,10 @@ kir@kirillaristov.com
 
 [kirillaristov.com](https://kirillaristov.com)
 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kirillaristov&repo=kirillaristov.com)](https://github.com/kirillaristov/kirillaristov.com)
+
+
 <!--
 **kirillaristov/kirillaristov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
