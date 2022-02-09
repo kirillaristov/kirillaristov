@@ -9,6 +9,8 @@ kir@kirillaristov.com
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kirillaristov&repo=kirillaristov.com)](https://github.com/kirillaristov/kirillaristov.com)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kirillaristov&repo=nationaltrails.ru)](https://github.com/kirillaristov/nationaltrails.ru)
+
 
 <!--
 **kirillaristov/kirillaristov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
